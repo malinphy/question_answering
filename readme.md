@@ -1,4 +1,4 @@
-# Sentiment Classification
+# Question Answering
 
 Question answering with BERT model on SQUAD v1.1.
 
